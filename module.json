@@ -1,0 +1,22 @@
+{
+  "name": "five-ten-five-ruler",
+  "title": "5-10-5 Ruler",
+  "description": "When measuring distance use the 5-10-5 measurement style.",
+  "version": "1.0.1",
+  "minimumCoreVersion": "0.8.8",
+  "authors": [
+    {
+      "name": "Pandaemonik"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "dependencies": [
+    {
+      "name": "lib-wrapper",
+      "manifest": "https://raw.githubusercontent.com/ruipin/fvtt-lib-wrapper/master/module.json",
+      "type": "module"
+    }
+  ]
+}
