@@ -18,5 +18,8 @@
       "manifest": "https://raw.githubusercontent.com/ruipin/fvtt-lib-wrapper/master/module.json",
       "type": "module"
     }
-  ]
+  ],
+  "url": "https://raw.githubusercontent.com/Pandaemonik/five-ten-five-ruler/master/module.json",
+  "download": "https://github.com/Pandaemonik/five-ten-five-ruler/archive/refs/tags/v1.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/Pandaemonik/five-ten-five-ruler/master/module.json"
 }
