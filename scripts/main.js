@@ -9,7 +9,7 @@ Hooks.once('ready', () => {
 });
 
 //Override the measureDistances function so this **WILL*** break Terrain Ruler. Use at your own peril.
-Hooks.on("canvasInit", function() {
+Hooks.once("canvasInit", function() {
 	libWrapper.register(MODULE_ID, 'SquareGrid.prototype.measureDistances', function( ...args){
 		return distance5105(...args);
 	}, 'OVERRIDE');

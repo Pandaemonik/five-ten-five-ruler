@@ -1,7 +1,7 @@
 //Shamelessly copied from the good people at dnd5e
 //(see: https://gitlab.com/foundrynet/dnd5e/-/blob/master/module/canvas.js)
 export const distance5105 = function(segments, options = {}) {
-    //if (!options.gridSpaces) return BaseGrid.prototype.measureDistances.call(this, segments, options);
+    if (!options.gridSpaces) return BaseGrid.prototype.measureDistances.call(this, segments, options);
     // Track the total number of diagonals
     let nDiagonal = 0;
     const d = canvas.dimensions;
