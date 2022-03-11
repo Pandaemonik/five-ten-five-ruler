@@ -2,7 +2,7 @@
   "name": "five-ten-five-ruler",
   "title": "5-10-5 Ruler",
   "description": "When measuring distance use the 5-10-5 measurement style.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion" : "9",
   "authors": [
@@ -21,6 +21,6 @@
     }
   ],
   "url": "https://github.com/Pandaemonik/five-ten-five-ruler",
-  "download": "https://github.com/Pandaemonik/five-ten-five-ruler/archive/refs/tags/v1.0.3.zip",
+  "download": "https://github.com/Pandaemonik/five-ten-five-ruler/archive/refs/tags/v1.0.4.zip",
   "manifest": "https://raw.githubusercontent.com/Pandaemonik/five-ten-five-ruler/master/module.json"
 }
